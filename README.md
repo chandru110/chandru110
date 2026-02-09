@@ -19,9 +19,10 @@
   <a href="mailto:chandrusgrp@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="[https://github.com/chandru110/chandru110/raw/main/Chandru_S_Resume.pdf](https://github.com/chandru110/chandru110/blob/main/Chandru_S_Resume.pdf.pdf)">
-    <img src="https://img.shields.io/badge/Resume-Download-success?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-  </a>
+  <a href="https://raw.githubusercontent.com/chandru110/chandru110/main/Chandru_S_Resume.pdf.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-Download-success?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
+
 </p>
 
 ---

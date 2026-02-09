@@ -19,6 +19,9 @@
   <a href="mailto:chandrusgrp@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://github.com/chandru110/chandru110/raw/main/Chandru_S_Resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-Download-success?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
 </p>
 
 ---

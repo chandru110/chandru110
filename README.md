@@ -1,9 +1,9 @@
 <!-- ================= HEADER ================= -->
 <h1 align="center">Hi 👋, I'm Chandru S</h1>
-<h3 align="center">🚀 AI Engineer | RAG Systems | Scalable Backend | DSA Enthusiast</h3>
+<h3 align="center">🚀 AI Engineer | RAG Systems | LangChain | Local LLMs | Scalable Backend</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+Production-Grade+AI+Systems;Specialized+in+RAG+%26+LLM+Apps;FastAPI+%7C+Vector+DB+%7C+AI+Agents;400%2B+DSA+Problems+Solved" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Production-Grade+AI+Systems;Specialized+in+RAG+%26+LLM+Applications;LangChain+%7C+Ollama+%7C+Llama+3;FastAPI+%7C+Vector+DB+%7C+AI+Agents;400%2B+DSA+Problems+Solved" />
 </p>
 
 ---
@@ -20,9 +20,8 @@
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://raw.githubusercontent.com/chandru110/chandru110/main/Chandru_S_Resume.pdf.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/Resume-Download-success?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-</a>
-
+    <img src="https://img.shields.io/badge/Resume-Download-success?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -34,7 +33,7 @@
 
 ---
 
-<!-- ================= CONTRIBUTION CARD ================= -->
+<!-- ================= CONTRIBUTION CARDS ================= -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chandru110&theme=tokyonight" />
 </p>
@@ -46,10 +45,13 @@
 ---
 
 # 🧠 About Me
+
 - 🎓 **B.Tech CSE @ Amrita Vishwa Vidyapeetham (2023–2027)**  
 - 🧩 Solved **400+ DSA problems**  
 - 🤖 Building **production-grade RAG systems & AI agents**  
-- ⚡ Exploring **LLMs, Vector DBs & scalable AI architectures**
+- 🦙 Running **Llama 3 locally using Ollama**  
+- 🔗 Developing **LangChain-powered LLM pipelines**  
+- ⚡ Exploring scalable **GenAI architectures & async backends**
 
 ---
 
@@ -60,37 +62,56 @@
   <img src="https://skillicons.dev/icons?i=cpp,c,python,js,html,css" />
 </p>
 
+---
+
 ### ⚙️ Backend • AI • Infra
 <p>
   <img src="https://skillicons.dev/icons?i=fastapi,docker,git,github" />
 </p>
 
-**Core:**  
-`RAG` • `AI Agents` • `Gemini API` • `Qdrant` • `Embeddings` • `Async` • `Streamlit` • `Inngest`
+### 🧠 AI & LLM Stack
+
+`LangChain` • `Ollama` • `Llama 3` • `RAG` • `AI Agents`  
+`Gemini API` • `Qdrant` • `Embeddings` • `Vector DB`  
+`Async` • `Streamlit` • `Inngest`
 
 ---
 
 # 🌟 Featured Project — RAG PDF QA
-Production-grade **Retrieval-Augmented Generation system** with:
 
-- FastAPI + Inngest event pipeline  
-- Gemini embeddings → Qdrant vector DB  
-- Semantic retrieval + grounded LLM answers  
-- Streamlit real-time PDF Q&A UI  
+Production-grade **Retrieval-Augmented Generation system** featuring:
 
-🔗 Check pinned repositories.
+- 🚀 FastAPI + Inngest event-driven pipeline  
+- 🧠 Gemini embeddings → Qdrant vector database  
+- 🔍 Semantic retrieval with grounded LLM responses  
+- 🦙 Hybrid setup: Gemini (cloud) + Llama 3 (local via Ollama)  
+- 💬 Streamlit real-time PDF Q&A interface  
+
+🔗 Check pinned repositories for implementation details.
+
+---
+
+# 🧠 Local LLM Engineering
+
+- 🦙 Deploying **Llama 3 locally using Ollama**
+- 🔗 Designing **LangChain RAG chains**
+- 🛠 Building custom retrievers & embedding workflows
+- ⚡ Hybrid AI systems (Cloud LLM + Local LLM)
+- 🧩 Optimizing token usage & inference performance
 
 ---
 
 # 🏆 Achievements
+
 🥇 AlgoCrack Winner  
-🏅 Shaastra IIT Madras — 7th  
+🏅 Shaastra IIT Madras — 7th Place  
 🚀 Apogee Hackathon Finalist  
 🧪 Bio Ideathon — 1st Place  
 
 ---
 
 # 📊 Coding Profiles
+
 <p align="center">
   <a href="https://leetcode.com/u/chandru_s11/">
     <img src="https://img.shields.io/badge/LeetCode-chandru_s11-orange?style=for-the-badge&logo=leetcode"/>
@@ -105,4 +126,4 @@ Production-grade **Retrieval-Augmented Generation system** with:
 
 ---
 
-<h3 align="center">⚡ Building the future with AI, one scalable system at a time.</h3>
+<h3 align="center">⚡ Building scalable AI systems with both Cloud & Local LLMs.</h3>
